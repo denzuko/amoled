@@ -26,7 +26,7 @@ amoled:
   paper-item-icon-color: "var(--primary-text-color)"
   paper-item-selected_-_background-color: "#434954"
   paper-listbox-background-color: "#000000"
-  paper-listbox-color: "#FFFFFF)"
+  paper-listbox-color: "#FFFFFF"
   paper-slider-active-color: "var(--accent-color)"
   paper-slider-container-color: "linear-gradient(var(--primary-background-color), var(--secondary-background-color)) no-repeat"
   paper-slider-disabled-active-color: "var(--disabled-text-color)"
