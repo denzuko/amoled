@@ -45,7 +45,7 @@ amoled:
   primary-background-color: "#000000"
   primary-color: "#484A4C"
   primary-text-color: "#FFFFFF"
-  secondary-background-color: "#383C45"
+  secondary-background-color: "#000000"
   secondary-text-color: "#5294E2"
   sidebar-icon-color: "var(--primary-color)"
   sidebar-selected-icon-color: "var(--primary-text-color)"
